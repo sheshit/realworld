@@ -36,8 +36,8 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
      7: PureScript + Halogen
      8: ClojureScript + re-frame
      9: Aurelia
-    10: Angular + ngrx + nx
-    11: Svelte / Sapper
+    10: Svelte / Sapper
+    11: Angular + ngrx + nx
     12: AppRun
     13: ClojureScript + Keechma
     14: Dojo 2
@@ -45,14 +45,14 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     16: Crizmas MVC
     17: Imba
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Wed Feb 06 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
 | [**React / Redux**<br/> ![React / Redux](https://raw.githubusercontent.com/gothinkster/react-redux-realworld-example-app/master/project-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/react-redux-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/react-redux-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/react-redux-realworld-example-app)| [**Angular**<br/> ![Angular](https://raw.githubusercontent.com/gothinkster/angular2-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/angular-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/angular-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/angular-realworld-example-app)| [**Elm**<br/> ![Elm](https://cloud.githubusercontent.com/assets/556934/25448178/3e7dc5c0-2a7d-11e7-8069-06da5169dae6.png) ![Star](https://img.shields.io/github/stars/rtfeldman/elm-spa-example.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/rtfeldman/elm-spa-example.svg?style=social&label=Fork)](https://github.com/rtfeldman/elm-spa-example)
 | [**Vue**<br/> ![Vue](https://github.com/gothinkster/vue-realworld-example-app/blob/master/static/rwv-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/vue-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/vue-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/vue-realworld-example-app)| [**React / MobX**<br/> ![React / MobX](https://raw.githubusercontent.com/gothinkster/react-mobx-realworld-example-app/master/project-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/react-mobx-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/react-mobx-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/react-mobx-realworld-example-app)| [**AngularJS**<br/> ![AngularJS](https://raw.githubusercontent.com/gothinkster/angularjs-realworld-example-app/master/project-logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/angularjs-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/angularjs-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/angularjs-realworld-example-app)
 | [**PureScript + Halogen**<br/> ![PureScript + Halogen](https://raw.githubusercontent.com/thomashoneyman/purescript-halogen-realworld/master/assets/logo.png) ![Star](https://img.shields.io/github/stars/thomashoneyman/purescript-halogen-realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/thomashoneyman/purescript-halogen-realworld.svg?style=social&label=Fork)](https://github.com/thomashoneyman/purescript-halogen-realworld)| [**ClojureScript + re-frame**<br/> ![ClojureScript + re-frame](https://cloud.githubusercontent.com/assets/556934/25448267/85369fdc-2a7d-11e7-9613-ab5ce5e1800f.png) ![Star](https://img.shields.io/github/stars/jacekschae/conduit.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/jacekschae/conduit.svg?style=social&label=Fork)](https://github.com/jacekschae/conduit)| [**Aurelia**<br/> ![Aurelia](https://raw.githubusercontent.com/gothinkster/aurelia-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/aurelia-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/aurelia-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/aurelia-realworld-example-app)
-| [**Angular + ngrx + nx**<br/> ![Angular + ngrx + nx](https://raw.githubusercontent.com/stefanoslig/angular-ngrx-nx-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/stefanoslig/angular-ngrx-nx-realworld-example-app.svg?style=social&label=Fork)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app)| [**Svelte / Sapper**<br/> ![Svelte / Sapper](https://github.com/sveltejs/realworld/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/sveltejs/realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/sveltejs/realworld.svg?style=social&label=Fork)](https://github.com/sveltejs/realworld)| [**AppRun**<br/> ![AppRun](https://github.com/gothinkster/apprun-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/apprun-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/apprun-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/apprun-realworld-example-app)
+| [**Svelte / Sapper**<br/> ![Svelte / Sapper](https://github.com/sveltejs/realworld/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/sveltejs/realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/sveltejs/realworld.svg?style=social&label=Fork)](https://github.com/sveltejs/realworld)| [**Angular + ngrx + nx**<br/> ![Angular + ngrx + nx](https://raw.githubusercontent.com/stefanoslig/angular-ngrx-nx-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/stefanoslig/angular-ngrx-nx-realworld-example-app.svg?style=social&label=Fork)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app)| [**AppRun**<br/> ![AppRun](https://github.com/gothinkster/apprun-realworld-example-app/blob/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/apprun-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/apprun-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/apprun-realworld-example-app)
 | [**ClojureScript + Keechma**<br/> ![ClojureScript + Keechma](https://raw.githubusercontent.com/gothinkster/clojurescript-keechma-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/clojurescript-keechma-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/clojurescript-keechma-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/clojurescript-keechma-realworld-example-app)| [**Dojo 2**<br/> ![Dojo 2](https://raw.githubusercontent.com/gothinkster/dojo2-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/gothinkster/dojo2-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/dojo2-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/dojo2-realworld-example-app)| [**Hyperapp 1**<br/> ![Hyperapp 1](https://raw.githubusercontent.com/kwasniew/hyperapp-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/kwasniew/hyperapp-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/kwasniew/hyperapp-realworld-example-app.svg?style=social&label=Fork)](https://github.com/kwasniew/hyperapp-realworld-example-app)
 | [**Crizmas MVC**<br/> ![Crizmas MVC](https://raw.githubusercontent.com/gothinkster/crizmas-mvc-realworld-example-app/master/crizmas.png) ![Star](https://img.shields.io/github/stars/gothinkster/crizmas-mvc-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/gothinkster/crizmas-mvc-realworld-example-app.svg?style=social&label=Fork)](https://github.com/gothinkster/crizmas-mvc-realworld-example-app)| [**Imba**<br/> ![Imba](https://raw.githubusercontent.com/cartonalexandre/imba-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/cartonalexandre/imba-realworld-example-app.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/cartonalexandre/imba-realworld-example-app.svg?style=social&label=Fork)](https://github.com/cartonalexandre/imba-realworld-example-app)
 
@@ -114,7 +114,7 @@ Work In Progress:
     31: Ruby & Colmena
     32: Express w/ Bookshelf.js
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Wed Feb 06 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -168,14 +168,15 @@ Work In Progress:
 [Rust / Rocket / Diesel / Mysql - Backend Application](https://github.com/gothinkster/realworld/issues/272) | 
 [Golang + Revel](https://github.com/gothinkster/realworld/issues/285) | 
 [Masonite Framework](https://github.com/gothinkster/realworld/issues/304) | 
-[Kotlin + http4k + exposed](https://github.com/gothinkster/realworld/issues/326)**
+[Kotlin + http4k + exposed](https://github.com/gothinkster/realworld/issues/326) | 
+[Turbolinks](https://github.com/gothinkster/realworld/issues/337)**
 
 # Mobile
 <!--
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Wed Feb 06 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
